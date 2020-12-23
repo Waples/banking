@@ -1,0 +1,9 @@
+# A collection of INFO/ERROR etc messages
+messages:
+  info:
+    balance: 'Your current balance is:'
+    redaction: 'Coins removed from your account! The total now is:'
+    addition: 'Coins added to your account! The total now is:'
+  errors:
+    warning: 'You are reaching your deficite limit. Your next transaction can result in banning use of your account.'
+    banned: 'You have reached your deficite limit. Add more coins to your account if you want to order again.'
